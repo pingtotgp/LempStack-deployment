@@ -1,0 +1,8 @@
+apiVersion: v1
+data:
+  password: UjAwdAo=
+kind: Secret
+metadata:
+  name: mysql-root-pass
+  namespace: default
+type: Opaque
