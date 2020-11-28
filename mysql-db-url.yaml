@@ -1,0 +1,8 @@
+apiVersion: v1
+data:
+  database: a29kZWtsb3VkX2RiOAo=
+kind: Secret
+metadata:
+  name: mysql-db-url
+  namespace: default
+type: Opaque
